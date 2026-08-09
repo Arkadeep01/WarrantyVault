@@ -1,0 +1,10 @@
+{
+  "name": "Receipt & Warranty Vault",
+  "description": "Intelligent digital locker that processes receipts, extracts itemized details & warranty metadata via OCR/AI, and manages lifecycle alerts.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
