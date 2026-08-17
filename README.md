@@ -7,7 +7,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Powered by Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
----
+---<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/a21643df-513f-4992-8613-2a638debeaed" />
+
 
 ## 📌 Overview
 
